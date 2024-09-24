@@ -19,7 +19,7 @@
 
 👉 프로그래밍 공부 내용을 노트 어플 "Obsidian" 으로 정리하고 있습니다.
 
-   (타인에게 보여주기 부끄럽지 않을 정도라고 생각되면 해당 repo는 Public으로 바꿔보겠습니다!)
+   repo : https://github.com/R2ALIZE/Obsidian
 
 
 
